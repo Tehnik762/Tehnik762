@@ -8,7 +8,7 @@ Hey there! 👋 I'm Anton Braslavskii, a former construction engineer turned cod
 
 - 💻 Currently, I'm on a coding adventure, and my favorite languages are **PHP** and **Python**. I'm passionate about **web development**.
 
-- 📚 I am thrilled to have completed my studies at WBS School and am now a Data Scientist. Data is fascinating, and I'm excited to continue exploring its depths!
+- 📚 I am thrilled to have completed my studies at WBS School and am now a **Data Scientist**. Data is fascinating, and I'm excited to continue exploring its depths!
 
 - 👨‍👩‍👧 I cherish my family, and they are my biggest source of inspiration and support.
 
